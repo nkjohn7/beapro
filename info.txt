@@ -3,3 +3,4 @@ day
 kmmk
 desi
 fact
+declaration
